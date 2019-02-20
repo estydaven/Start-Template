@@ -1,0 +1,19 @@
+html {
+  @include desktop {
+    font-size: $font-size;
+  }
+  @include laptop {
+    font-size: 15px;
+  }
+  @include tablet {
+    font-size: 14px;
+  }
+  @include phone {
+    font-size: 14px;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
