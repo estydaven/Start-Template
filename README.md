@@ -1,5 +1,5 @@
 # Loftschool gulp assembly
-## Valentina Laikovskaya
+## My start gulp project
 
 > Assembly is designed for gulp#4.0.> 
 ### Preparing
