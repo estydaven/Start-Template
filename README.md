@@ -1,5 +1,5 @@
 # Loftschool gulp assembly
-## Maxim Shatalov
+## Valentina Laikovskaya
 
 > Assembly is designed for gulp#4.0.> 
 ### Preparing
@@ -17,10 +17,3 @@
 4. ```npm i```
 6. ```gulp``` 
 
-## Updated by Maxim Shatalov 11.02.2016
-1. ```Reinstalled jquery with -S flag```
-2. ```Added copy:font task```
-3. ```Installed gulp.spritesmith plugin```
-4. ```Installed merge-stream plugin```
-5. ```Added to app.scss: @import 'common/sprite'```
-6. ```Added sprite:img task```
